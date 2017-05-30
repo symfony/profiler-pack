@@ -7,10 +7,5 @@
         "php": "^7.0",
         "symfony/twig-bundle": "^3.3",
         "symfony/web-profiler-bundle": "^3.3"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "3.3.x-dev"
-        }
     }
 }
