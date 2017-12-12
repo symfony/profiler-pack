@@ -1,6 +1,6 @@
 {
     "name": "symfony/profiler-pack",
-    "type": "metapackage",
+    "type": "symfony-pack",
     "license": "MIT",
     "description": "A pack for the Symfony web profiler",
     "require": {
