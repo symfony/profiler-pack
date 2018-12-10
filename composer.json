@@ -5,8 +5,8 @@
     "description": "A pack for the Symfony web profiler",
     "require": {
         "php": "^7.0",
-        "symfony/stopwatch": "^3.3|^4.0",
-        "symfony/twig-bundle": "^3.3|^4.0",
-        "symfony/web-profiler-bundle": "^3.3|^4.0"
+        "symfony/stopwatch": "*",
+        "symfony/twig-bundle": "*",
+        "symfony/web-profiler-bundle": "*"
     }
 }
