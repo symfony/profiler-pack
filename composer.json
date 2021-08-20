@@ -5,7 +5,10 @@
     "description": "A pack for the Symfony web profiler",
     "require": {
         "symfony/stopwatch": "*",
-        "symfony/twig-bundle": "*",
+        "symfony/web-profiler-bundle": "*"
+    },
+    "require-dev": {
+        "symfony/stopwatch": "*",
         "symfony/web-profiler-bundle": "*"
     }
 }
